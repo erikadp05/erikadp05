@@ -1,6 +1,8 @@
 ### Hi there 👋
-
-<!--
+>Universidad Industrial de Santander
+#Erika Dayana Porras Torres
+###2181555
+-I’m currently learning git 
 **erikadp05/erikadp05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
